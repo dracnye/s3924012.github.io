@@ -99,6 +99,3 @@
       I prefer a structured approach to teamwork, where tasks are decided and then delegated to members.  These members would need to perform their tasks in a timely manner<br>
       <br><b>How should you take this into account when forming a team?</b><br>
       As long as the team members followed a structured approach, and get their assigned tasks performed in a timely manner, there shouldn't be any issues.  However, when things don't go as planned, I can find myself stressed easily.<br>
-</p>
-</body>
-</html>
